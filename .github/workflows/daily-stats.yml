@@ -27,7 +27,7 @@ jobs:
       
       - name: Collect statistics
         env:
-          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TRAFFIC_TRACKER }}
         run: |
           python collect_stats.py
       
@@ -36,5 +36,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
-          git diff --staged --quiet || git commit -m "📊 Daily stats update - $(date -u +'%Y-%m-%d')"
+          git diff --staged --quiet || git commit -m "Daily stats update - $(date -u +'%Y-%m-%d')"
           git push
