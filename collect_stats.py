@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Daily Clone Statistics Collector
-Fetches clone traffic data for all repos listed in ASI Ecosystem
-"""
-
 import os
 import json
 import re
