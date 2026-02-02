@@ -11,10 +11,11 @@ from pathlib import Path
 
 def check_token():
     """Check if GitHub token is available"""
-    token = os.environ.get('GITHUB_TOKEN')
+    token = os.environ.get('GITHUB_TOKEN') or os.environ.get('TRAFFIC_TRACKER')
     if not token:
-        print(" GITHUB_TOKEN environment variable not set")
+        print(" GITHUB_TOKEN or TRAFFIC_TRACKER environment variable not set")
         print("   Set it with: export GITHUB_TOKEN=your_token_here")
+        print("   Or: export TRAFFIC_TRACKER=your_token_here")
         return False
     print(" GitHub token found")
     return True
@@ -64,7 +65,7 @@ def check_directory_structure():
     return all_exist
 
 def main():
-    print(" Checking ecosystem-clone-statistics setup...\n")
+    print("🔍 Checking ecosystem-clone-statistics setup...\n")
     
     checks = [
         ("Dependencies", check_dependencies()),
