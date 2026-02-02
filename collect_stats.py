@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+"""
+Daily Clone Statistics Collector
+Fetches clone traffic data for all repos listed in ASI Ecosystem
+
+Requires GITHUB_TOKEN or TRAFFIC_TRACKER environment variable with repo access
+"""
+
 import os
 import json
 import re
@@ -13,14 +21,14 @@ GLOBAL_SUMMARY_FILE = Path("global-summary.json")
 
 def get_github_token():
     """Get GitHub token from environment"""
-    token = os.environ.get('GITHUB_TOKEN')
+    token = os.environ.get('GITHUB_TOKEN') or os.environ.get('TRAFFIC_TRACKER')
     if not token:
-        raise ValueError("GITHUB_TOKEN environment variable not set")
+        raise ValueError("GITHUB_TOKEN or TRAFFIC_TRACKER environment variable not set")
     return token
 
 def fetch_ecosystem_repos():
     """Fetch and parse the ASI Ecosystem README to extract repo URLs"""
-    print(" Fetching ASI Ecosystem README...")
+    print("📥 Fetching ASI Ecosystem README...")
     response = requests.get(ECOSYSTEM_README_URL)
     response.raise_for_status()
     
@@ -80,7 +88,7 @@ def save_daily_run(repo_dir, data):
     with open(today_file, 'w') as f:
         json.dump(data, f, indent=2)
     
-    print(f"  Saved: {today_file}")
+    print(f" Saved: {today_file}")
 
 def update_repo_summary(repo_dir, repo_name):
     """Update the summary.json for a specific repo"""
@@ -121,7 +129,7 @@ def update_repo_summary(repo_dir, repo_name):
     with open(summary_file, 'w') as f:
         json.dump(summary, f, indent=2)
     
-    print(f"  Updated summary: {summary_file}")
+    print(f"   Updated summary: {summary_file}")
     return summary
 
 def update_global_summary():
@@ -173,7 +181,7 @@ def main():
     stats_skipped = 0
     
     for repo_full_name in repos_to_track:
-        print(f" {repo_full_name}")
+        print(f"🔍 {repo_full_name}")
         
         # Create repo directory
         repo_safe_name = repo_full_name.replace('/', '_')
@@ -181,7 +189,7 @@ def main():
         
         # Check if already ran today
         if check_if_already_ran_today(repo_dir):
-            print(f"   Already collected today - skipping")
+            print(f"  ⏭️  Already collected today - skipping")
             stats_skipped += 1
             continue
         
