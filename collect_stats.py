@@ -9,10 +9,11 @@ Requires GITHUB_TOKEN or TRAFFIC_TRACKER environment variable with repo access
 import os
 import json
 import re
+import sys
 from datetime import datetime, timezone
 from pathlib import Path
 import requests
-from github import Github
+from github import Github, GithubException
 
 # Configuration
 ECOSYSTEM_README_URL = "https://raw.githubusercontent.com/ronniross/asi-ecosystem/main/README.md"
@@ -21,31 +22,40 @@ GLOBAL_SUMMARY_FILE = Path("global-summary.json")
 
 def get_github_token():
     """Get GitHub token from environment"""
-    token = os.environ.get('GITHUB_TOKEN') or os.environ.get('TRAFFIC_TRACKER')
+    token = os.environ.get('TRAFFIC_TRACKER') or os.environ.get('GITHUB_TOKEN')
     if not token:
-        raise ValueError("GITHUB_TOKEN or TRAFFIC_TRACKER environment variable not set")
+        print(" Error: TRAFFIC_TRACKER or GITHUB_TOKEN not found in environment.")
+        sys.exit(1)
     return token
 
 def fetch_ecosystem_repos():
     """Fetch and parse the ASI Ecosystem README to extract repo URLs"""
-    print("📥 Fetching ASI Ecosystem README...")
-    response = requests.get(ECOSYSTEM_README_URL)
-    response.raise_for_status()
+    print(f"📥 Fetching ASI Ecosystem README from: {ECOSYSTEM_README_URL}")
+    try:
+        response = requests.get(ECOSYSTEM_README_URL, timeout=10)
+        response.raise_for_status()
+    except requests.RequestException as e:
+        print(f" Failed to download README: {e}")
+        sys.exit(1)
     
     content = response.text
     
     # Extract GitHub repo URLs from markdown links
-    # Pattern: [text](https://github.com/owner/repo)
     pattern = r'\[([^\]]+)\]\(https://github\.com/([^/]+)/([^/)]+)\)'
     matches = re.findall(pattern, content)
     
     repos = []
+    seen = set()
     for match in matches:
         owner = match[1]
-        repo = match[2]
-        repos.append(f"{owner}/{repo}")
+        repo_name = match[2].split('?')[0].split('#')[0] # Clean URL params
+        full_name = f"{owner}/{repo_name}"
+        
+        if full_name not in seen:
+            repos.append(full_name)
+            seen.add(full_name)
     
-    print(f" Found {len(repos)} repositories to track")
+    print(f" Found {len(repos)} unique repositories to track")
     return repos
 
 def get_today_filename():
@@ -63,9 +73,9 @@ def fetch_clone_traffic(gh, repo_full_name):
     """Fetch clone traffic data from GitHub API"""
     try:
         repo = gh.get_repo(repo_full_name)
+        # Note: You need Push access to the target repo to read traffic stats
         traffic = repo.get_clones_traffic()
         
-        # Get today's data (last entry in the list)
         if traffic.get('clones'):
             latest = traffic['clones'][-1]
             return {
@@ -74,8 +84,16 @@ def fetch_clone_traffic(gh, repo_full_name):
                 'uniques': latest.uniques
             }
         return None
+    except GithubException as e:
+        if e.status == 403:
+            print(f"   Access Denied (403): Check TRAFFIC_TRACKER permissions for {repo_full_name}")
+        elif e.status == 404:
+            print(f"   Repo not found (404): {repo_full_name}")
+        else:
+            print(f"   GitHub API Error: {e}")
+        return None
     except Exception as e:
-        print(f"  Error fetching {repo_full_name}: {e}")
+        print(f"   Unexpected Error fetching {repo_full_name}: {e}")
         return None
 
 def save_daily_run(repo_dir, data):
@@ -88,33 +106,32 @@ def save_daily_run(repo_dir, data):
     with open(today_file, 'w') as f:
         json.dump(data, f, indent=2)
     
-    print(f" Saved: {today_file}")
+    print(f"   Saved: {today_file}")
 
 def update_repo_summary(repo_dir, repo_name):
     """Update the summary.json for a specific repo"""
     runs_dir = repo_dir / "runs"
     summary_file = repo_dir / "summary.json"
     
-    # Collect all run data
     all_runs = []
     unique_cloners_set = set()
     total_clones = 0
     
     if runs_dir.exists():
         for run_file in sorted(runs_dir.glob("*.json")):
-            with open(run_file, 'r') as f:
-                run_data = json.load(f)
-                all_runs.append({
-                    'date': run_file.stem,
-                    'clones': run_data.get('count', 0),
-                    'unique_cloners': run_data.get('uniques', 0)
-                })
-                total_clones += run_data.get('count', 0)
-                # Note: We can't truly deduplicate cloners across time windows
-                # So we track the maximum unique cloners seen in any day
-                unique_cloners_set.add(run_data.get('uniques', 0))
+            try:
+                with open(run_file, 'r') as f:
+                    run_data = json.load(f)
+                    all_runs.append({
+                        'date': run_file.stem,
+                        'clones': run_data.get('count', 0),
+                        'unique_cloners': run_data.get('uniques', 0)
+                    })
+                    total_clones += run_data.get('count', 0)
+                    unique_cloners_set.add(run_data.get('uniques', 0))
+            except json.JSONDecodeError:
+                print(f"   Warning: Corrupt JSON file {run_file}")
     
-    # Calculate summary
     summary = {
         'repo_name': repo_name,
         'last_updated': datetime.now(timezone.utc).isoformat(),
@@ -129,12 +146,11 @@ def update_repo_summary(repo_dir, repo_name):
     with open(summary_file, 'w') as f:
         json.dump(summary, f, indent=2)
     
-    print(f"   Updated summary: {summary_file}")
     return summary
 
 def update_global_summary():
     """Update the global summary across all repos"""
-    print("\n Updating global summary...")
+    print("\n🌎 Updating global summary...")
     
     all_repo_summaries = []
     total_clones_global = 0
@@ -145,17 +161,20 @@ def update_global_summary():
             if repo_dir.is_dir():
                 summary_file = repo_dir / "summary.json"
                 if summary_file.exists():
-                    with open(summary_file, 'r') as f:
-                        summary = json.load(f)
-                        all_repo_summaries.append(summary)
-                        total_clones_global += summary.get('total_clones', 0)
-                        total_repos += 1
+                    try:
+                        with open(summary_file, 'r') as f:
+                            summary = json.load(f)
+                            all_repo_summaries.append(summary)
+                            total_clones_global += summary.get('total_clones', 0)
+                            total_repos += 1
+                    except Exception:
+                        continue
     
     global_summary = {
         'last_updated': datetime.now(timezone.utc).isoformat(),
         'total_repos_tracked': total_repos,
         'total_clones_all_repos': total_clones_global,
-        'repositories': all_repo_summaries
+        'repositories': sorted(all_repo_summaries, key=lambda x: x.get('total_clones', 0), reverse=True)
     }
     
     with open(GLOBAL_SUMMARY_FILE, 'w') as f:
@@ -172,6 +191,14 @@ def main():
     token = get_github_token()
     gh = Github(token)
     
+    # Verify token validity broadly
+    try:
+        user = gh.get_user()
+        print(f" Authenticated as: {user.login}")
+    except Exception as e:
+        print(f" Error authenticating with GitHub Token: {e}")
+        sys.exit(1)
+
     # Fetch list of repos to track
     repos_to_track = fetch_ecosystem_repos()
     
@@ -181,7 +208,7 @@ def main():
     stats_skipped = 0
     
     for repo_full_name in repos_to_track:
-        print(f"🔍 {repo_full_name}")
+        print(f" {repo_full_name}")
         
         # Create repo directory
         repo_safe_name = repo_full_name.replace('/', '_')
@@ -189,7 +216,7 @@ def main():
         
         # Check if already ran today
         if check_if_already_ran_today(repo_dir):
-            print(f"  ⏭️  Already collected today - skipping")
+            print(f"    Already collected today - skipping")
             stats_skipped += 1
             continue
         
@@ -197,29 +224,20 @@ def main():
         clone_data = fetch_clone_traffic(gh, repo_full_name)
         
         if clone_data:
-            # Add metadata
             clone_data['repo'] = repo_full_name
             clone_data['collected_at'] = datetime.now(timezone.utc).isoformat()
             
-            # Save daily run
             save_daily_run(repo_dir, clone_data)
-            
-            # Update repo summary
             update_repo_summary(repo_dir, repo_full_name)
-            
             stats_collected += 1
         else:
-            print(f"   No data available")
+            print(f"   No data available or access denied")
         
-        print()  # Blank line between repos
-    
-    # Update global summary
     update_global_summary()
     
     print(f"\n Collection complete!")
     print(f"   New stats collected: {stats_collected}")
     print(f"   Skipped (already ran): {stats_skipped}")
-    print(f"   Total repos: {len(repos_to_track)}")
 
 if __name__ == "__main__":
     main()
