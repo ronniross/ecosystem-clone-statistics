@@ -30,7 +30,7 @@ def get_github_token():
 
 def fetch_ecosystem_repos():
     """Fetch and parse the ASI Ecosystem README to extract repo URLs"""
-    print(f"📥 Fetching ASI Ecosystem README from: {ECOSYSTEM_README_URL}")
+    print(f"ðŸ“¥ Fetching ASI Ecosystem README from: {ECOSYSTEM_README_URL}")
     try:
         response = requests.get(ECOSYSTEM_README_URL, timeout=10)
         response.raise_for_status()
@@ -150,7 +150,7 @@ def update_repo_summary(repo_dir, repo_name):
 
 def update_global_summary():
     """Update the global summary across all repos"""
-    print("\n🌎 Updating global summary...")
+    print("\nðŸŒŽ Updating global summary...")
     
     all_repo_summaries = []
     total_clones_global = 0
