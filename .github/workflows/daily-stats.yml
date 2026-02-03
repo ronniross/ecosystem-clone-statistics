@@ -6,18 +6,26 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch: # Allows manual triggering
 
+# Prevents multiple runs of this workflow from happening at the same time
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
 jobs:
   collect-stats:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    # Increased timeout to prevent early termination during setup
+    timeout-minutes: 30
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          # We use the PAT (TRAFFIC_TRACKER) to ensure we can access other repos
+          # and to ensure the push back triggers correctly
           token: ${{ secrets.TRAFFIC_TRACKER }}
           fetch-depth: 0
       
@@ -25,6 +33,7 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
+          cache: 'pip' # Caches dependencies to speed up runs
       
       - name: Install dependencies
         run: |
@@ -32,18 +41,21 @@ jobs:
       
       - name: Collect statistics
         env:
+          # Pass the secret explicitly to the script
           GITHUB_TOKEN: ${{ secrets.TRAFFIC_TRACKER }}
+          TRAFFIC_TRACKER: ${{ secrets.TRAFFIC_TRACKER }}
         run: |
           python collect_stats.py
       
       - name: Commit and push changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add .
+          git add repos/ global-summary.json
+          # Only commit if there are changes
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No changes to commit today."
           else
-            git commit -m " Daily stats update - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+            git commit -m " Daily stats update: $(date -u +'%Y-%m-%d')"
             git push
           fi
