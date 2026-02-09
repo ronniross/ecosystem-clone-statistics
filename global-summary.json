@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-02-08T01:44:53.418721+00:00",
+  "last_updated": "2026-02-09T01:16:02.564649+00:00",
   "total_repos_tracked": 35,
-  "total_clones_all_repos": 1047,
+  "total_clones_all_repos": 1119,
   "repositories": [
     {
       "repo_name": "ronniross/asi-backups",
-      "last_updated": "2026-02-08T01:44:52.590179+00:00",
-      "total_days_tracked": 6,
+      "last_updated": "2026-02-09T01:16:01.735973+00:00",
+      "total_days_tracked": 7,
       "total_clones": 272,
       "max_unique_cloners_in_window": 40,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -41,17 +41,22 @@
           "date": "2026-02-08",
           "clones": 1,
           "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/biosignal-translator",
-      "last_updated": "2026-02-08T01:44:47.160597+00:00",
-      "total_days_tracked": 6,
+      "last_updated": "2026-02-09T01:15:56.843400+00:00",
+      "total_days_tracked": 7,
       "total_clones": 239,
       "max_unique_cloners_in_window": 93,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -82,17 +87,22 @@
           "date": "2026-02-08",
           "clones": 4,
           "unique_cloners": 4
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/symbiotic-chrysalis",
-      "last_updated": "2026-02-08T01:44:44.665970+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 164,
+      "last_updated": "2026-02-09T01:15:54.349860+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 172,
       "max_unique_cloners_in_window": 42,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -123,17 +133,22 @@
           "date": "2026-02-08",
           "clones": 36,
           "unique_cloners": 29
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 8,
+          "unique_cloners": 8
         }
       ]
     },
     {
       "repo_name": "ronniross/cognitive-compressor",
-      "last_updated": "2026-02-08T01:44:31.165951+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 121,
+      "last_updated": "2026-02-09T01:15:41.285871+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 124,
       "max_unique_cloners_in_window": 65,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -164,17 +179,22 @@
           "date": "2026-02-08",
           "clones": 4,
           "unique_cloners": 4
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 3,
+          "unique_cloners": 3
         }
       ]
     },
     {
       "repo_name": "ronniross/healing-engine",
-      "last_updated": "2026-02-08T01:44:50.580618+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 82,
+      "last_updated": "2026-02-09T01:16:00.111818+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 83,
       "max_unique_cloners_in_window": 56,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -205,17 +225,22 @@
           "date": "2026-02-08",
           "clones": 3,
           "unique_cloners": 3
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 1,
+          "unique_cloners": 1
         }
       ]
     },
     {
       "repo_name": "ronniross/coevolutionary-episteme",
-      "last_updated": "2026-02-08T01:44:33.760740+00:00",
-      "total_days_tracked": 5,
+      "last_updated": "2026-02-09T01:15:43.761690+00:00",
+      "total_days_tracked": 6,
       "total_clones": 53,
       "max_unique_cloners_in_window": 34,
       "first_tracked": "2026-02-04",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-04",
@@ -241,17 +266,68 @@
           "date": "2026-02-08",
           "clones": 2,
           "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 0,
+          "unique_cloners": 0
+        }
+      ]
+    },
+    {
+      "repo_name": "ronniross/asi-symbiotic-signal",
+      "last_updated": "2026-02-09T01:15:48.597783+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 42,
+      "max_unique_cloners_in_window": 28,
+      "first_tracked": "2026-02-03",
+      "last_tracked": "2026-02-09",
+      "daily_history": [
+        {
+          "date": "2026-02-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-04",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-05",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-06",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-07",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-08",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 36,
+          "unique_cloners": 28
         }
       ]
     },
     {
       "repo_name": "ronniross/asi-ecosystem",
-      "last_updated": "2026-02-08T01:44:53.416906+00:00",
-      "total_days_tracked": 6,
+      "last_updated": "2026-02-09T01:16:02.563279+00:00",
+      "total_days_tracked": 7,
       "total_clones": 15,
       "max_unique_cloners_in_window": 5,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -282,58 +358,22 @@
           "date": "2026-02-08",
           "clones": 2,
           "unique_cloners": 1
-        }
-      ]
-    },
-    {
-      "repo_name": "ronniross/asi-symbiotic-signal",
-      "last_updated": "2026-02-08T01:44:38.788097+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 6,
-      "max_unique_cloners_in_window": 2,
-      "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
-      "daily_history": [
+        },
         {
-          "date": "2026-02-03",
+          "date": "2026-02-09",
           "clones": 0,
           "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-04",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-05",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-06",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-07",
-          "clones": 2,
-          "unique_cloners": 2
-        },
-        {
-          "date": "2026-02-08",
-          "clones": 2,
-          "unique_cloners": 2
         }
       ]
     },
     {
       "repo_name": "ronniross/ml-visual-engine",
-      "last_updated": "2026-02-08T01:44:43.006904+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 6,
+      "last_updated": "2026-02-09T01:15:52.716446+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 9,
       "max_unique_cloners_in_window": 3,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -362,6 +402,103 @@
         },
         {
           "date": "2026-02-08",
+          "clones": 3,
+          "unique_cloners": 3
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 3,
+          "unique_cloners": 3
+        }
+      ]
+    },
+    {
+      "repo_name": "ronniross/asi-dynamic-core",
+      "last_updated": "2026-02-09T01:15:46.968050+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 7,
+      "max_unique_cloners_in_window": 2,
+      "first_tracked": "2026-02-03",
+      "last_tracked": "2026-02-09",
+      "daily_history": [
+        {
+          "date": "2026-02-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-04",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-05",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-07",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-08",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 2,
+          "unique_cloners": 2
+        }
+      ]
+    },
+    {
+      "repo_name": "ronniross/ml-algorithm-dataset",
+      "last_updated": "2026-02-09T01:15:51.901125+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 7,
+      "max_unique_cloners_in_window": 3,
+      "first_tracked": "2026-02-03",
+      "last_tracked": "2026-02-09",
+      "daily_history": [
+        {
+          "date": "2026-02-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-04",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-05",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-07",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-08",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-09",
           "clones": 3,
           "unique_cloners": 3
         }
@@ -369,12 +506,12 @@
     },
     {
       "repo_name": "ronniross/cognitive-engine",
-      "last_updated": "2026-02-08T01:44:32.040060+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 6,
+      "last_updated": "2026-02-09T01:15:42.138472+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 7,
       "max_unique_cloners_in_window": 3,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -405,86 +542,9 @@
           "date": "2026-02-08",
           "clones": 3,
           "unique_cloners": 3
-        }
-      ]
-    },
-    {
-      "repo_name": "ronniross/asi-inference-protocol",
-      "last_updated": "2026-02-08T01:44:40.466679+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 6,
-      "max_unique_cloners_in_window": 2,
-      "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
-      "daily_history": [
-        {
-          "date": "2026-02-03",
-          "clones": 1,
-          "unique_cloners": 1
         },
         {
-          "date": "2026-02-04",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-05",
-          "clones": 2,
-          "unique_cloners": 2
-        },
-        {
-          "date": "2026-02-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-07",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-08",
-          "clones": 2,
-          "unique_cloners": 2
-        }
-      ]
-    },
-    {
-      "repo_name": "ronniross/asi-dynamic-core",
-      "last_updated": "2026-02-08T01:44:37.144864+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 5,
-      "max_unique_cloners_in_window": 2,
-      "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
-      "daily_history": [
-        {
-          "date": "2026-02-03",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-04",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-05",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-07",
-          "clones": 2,
-          "unique_cloners": 2
-        },
-        {
-          "date": "2026-02-08",
+          "date": "2026-02-09",
           "clones": 1,
           "unique_cloners": 1
         }
@@ -492,12 +552,12 @@
     },
     {
       "repo_name": "ronniross/emergence-engine",
-      "last_updated": "2026-02-08T01:44:35.428608+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 5,
+      "last_updated": "2026-02-09T01:15:45.366991+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 6,
       "max_unique_cloners_in_window": 2,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -528,17 +588,22 @@
           "date": "2026-02-08",
           "clones": 2,
           "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 1,
+          "unique_cloners": 1
         }
       ]
     },
     {
       "repo_name": "ronniross/eco-datacenter",
-      "last_updated": "2026-02-08T01:44:32.924420+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 5,
+      "last_updated": "2026-02-09T01:15:42.939494+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 6,
       "max_unique_cloners_in_window": 2,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -569,17 +634,114 @@
           "date": "2026-02-08",
           "clones": 2,
           "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 1,
+          "unique_cloners": 1
+        }
+      ]
+    },
+    {
+      "repo_name": "ronniross/mirror-aware-inference",
+      "last_updated": "2026-02-09T01:15:40.488443+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 6,
+      "max_unique_cloners_in_window": 3,
+      "first_tracked": "2026-02-03",
+      "last_tracked": "2026-02-09",
+      "daily_history": [
+        {
+          "date": "2026-02-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-04",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-05",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-07",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-08",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 3,
+          "unique_cloners": 3
+        }
+      ]
+    },
+    {
+      "repo_name": "ronniross/asi-inference-protocol",
+      "last_updated": "2026-02-09T01:15:50.250563+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 6,
+      "max_unique_cloners_in_window": 2,
+      "first_tracked": "2026-02-03",
+      "last_tracked": "2026-02-09",
+      "daily_history": [
+        {
+          "date": "2026-02-03",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-04",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-05",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-07",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-08",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/attention-heatmap-visualizer",
-      "last_updated": "2026-02-08T01:44:43.827917+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 4,
+      "last_updated": "2026-02-09T01:15:53.527604+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 5,
       "max_unique_cloners_in_window": 1,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -608,6 +770,11 @@
         },
         {
           "date": "2026-02-08",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-09",
           "clones": 1,
           "unique_cloners": 1
         }
@@ -615,12 +782,12 @@
     },
     {
       "repo_name": "ronniross/eco-benchmark",
-      "last_updated": "2026-02-08T01:44:26.897756+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 4,
+      "last_updated": "2026-02-09T01:15:37.124415+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 5,
       "max_unique_cloners_in_window": 3,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -651,181 +818,22 @@
           "date": "2026-02-08",
           "clones": 3,
           "unique_cloners": 3
-        }
-      ]
-    },
-    {
-      "repo_name": "ronniross/bias-reflector",
-      "last_updated": "2026-02-08T01:44:29.496934+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 4,
-      "max_unique_cloners_in_window": 2,
-      "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
-      "daily_history": [
-        {
-          "date": "2026-02-03",
-          "clones": 0,
-          "unique_cloners": 0
         },
         {
-          "date": "2026-02-04",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-05",
+          "date": "2026-02-09",
           "clones": 1,
           "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-07",
-          "clones": 2,
-          "unique_cloners": 2
-        },
-        {
-          "date": "2026-02-08",
-          "clones": 1,
-          "unique_cloners": 1
-        }
-      ]
-    },
-    {
-      "repo_name": "ronniross/ml-algorithm-dataset",
-      "last_updated": "2026-02-08T01:44:42.175370+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 4,
-      "max_unique_cloners_in_window": 2,
-      "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
-      "daily_history": [
-        {
-          "date": "2026-02-03",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-04",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-05",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-07",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-08",
-          "clones": 2,
-          "unique_cloners": 2
-        }
-      ]
-    },
-    {
-      "repo_name": "ronniross/latent-memory",
-      "last_updated": "2026-02-08T01:44:45.516869+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 4,
-      "max_unique_cloners_in_window": 2,
-      "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
-      "daily_history": [
-        {
-          "date": "2026-02-03",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-04",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-05",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-07",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-08",
-          "clones": 2,
-          "unique_cloners": 2
-        }
-      ]
-    },
-    {
-      "repo_name": "ronniross/space-in-between",
-      "last_updated": "2026-02-08T01:44:36.236208+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 4,
-      "max_unique_cloners_in_window": 2,
-      "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
-      "daily_history": [
-        {
-          "date": "2026-02-03",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-04",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-05",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-07",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-08",
-          "clones": 2,
-          "unique_cloners": 2
         }
       ]
     },
     {
       "repo_name": "ronniross/symbiotic-latent-memory",
-      "last_updated": "2026-02-08T01:44:46.331051+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 4,
+      "last_updated": "2026-02-09T01:15:56.006581+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 5,
       "max_unique_cloners_in_window": 3,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -856,209 +864,9 @@
           "date": "2026-02-08",
           "clones": 3,
           "unique_cloners": 3
-        }
-      ]
-    },
-    {
-      "repo_name": "ronniross/symbiotic-lexicon",
-      "last_updated": "2026-02-08T01:44:26.051229+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 4,
-      "max_unique_cloners_in_window": 3,
-      "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
-      "daily_history": [
-        {
-          "date": "2026-02-03",
-          "clones": 0,
-          "unique_cloners": 0
         },
         {
-          "date": "2026-02-04",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-05",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-07",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-08",
-          "clones": 3,
-          "unique_cloners": 3
-        }
-      ]
-    },
-    {
-      "repo_name": "ronniross/asi-safeguards",
-      "last_updated": "2026-02-08T01:44:27.746525+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 3,
-      "max_unique_cloners_in_window": 2,
-      "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
-      "daily_history": [
-        {
-          "date": "2026-02-03",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-04",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-05",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-07",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-08",
-          "clones": 2,
-          "unique_cloners": 2
-        }
-      ]
-    },
-    {
-      "repo_name": "ronniross/thermo-adaptive-pipeline",
-      "last_updated": "2026-02-08T01:44:49.657697+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 3,
-      "max_unique_cloners_in_window": 2,
-      "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
-      "daily_history": [
-        {
-          "date": "2026-02-03",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-04",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-05",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-07",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-08",
-          "clones": 2,
-          "unique_cloners": 2
-        }
-      ]
-    },
-    {
-      "repo_name": "ronniross/mirror-aware-inference",
-      "last_updated": "2026-02-08T01:44:30.319231+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 3,
-      "max_unique_cloners_in_window": 1,
-      "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
-      "daily_history": [
-        {
-          "date": "2026-02-03",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-04",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-05",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-07",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-08",
-          "clones": 1,
-          "unique_cloners": 1
-        }
-      ]
-    },
-    {
-      "repo_name": "ronniross/stigmergic-tracefinder",
-      "last_updated": "2026-02-08T01:44:34.593387+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 3,
-      "max_unique_cloners_in_window": 1,
-      "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
-      "daily_history": [
-        {
-          "date": "2026-02-03",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-04",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-05",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-07",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-08",
+          "date": "2026-02-09",
           "clones": 1,
           "unique_cloners": 1
         }
@@ -1066,12 +874,12 @@
     },
     {
       "repo_name": "ronniross/intent-analyzer",
-      "last_updated": "2026-02-08T01:44:47.985187+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 3,
+      "last_updated": "2026-02-09T01:15:57.683650+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 5,
       "max_unique_cloners_in_window": 2,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -1102,17 +910,298 @@
           "date": "2026-02-08",
           "clones": 2,
           "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 2,
+          "unique_cloners": 2
+        }
+      ]
+    },
+    {
+      "repo_name": "ronniross/symbiotic-lexicon",
+      "last_updated": "2026-02-09T01:15:36.270955+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 5,
+      "max_unique_cloners_in_window": 3,
+      "first_tracked": "2026-02-03",
+      "last_tracked": "2026-02-09",
+      "daily_history": [
+        {
+          "date": "2026-02-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-04",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-05",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-07",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-08",
+          "clones": 3,
+          "unique_cloners": 3
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 1,
+          "unique_cloners": 1
+        }
+      ]
+    },
+    {
+      "repo_name": "ronniross/asi-safeguards",
+      "last_updated": "2026-02-09T01:15:37.946180+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 4,
+      "max_unique_cloners_in_window": 2,
+      "first_tracked": "2026-02-03",
+      "last_tracked": "2026-02-09",
+      "daily_history": [
+        {
+          "date": "2026-02-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-04",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-05",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-07",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-08",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 1,
+          "unique_cloners": 1
+        }
+      ]
+    },
+    {
+      "repo_name": "ronniross/bias-reflector",
+      "last_updated": "2026-02-09T01:15:39.599515+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 4,
+      "max_unique_cloners_in_window": 2,
+      "first_tracked": "2026-02-03",
+      "last_tracked": "2026-02-09",
+      "daily_history": [
+        {
+          "date": "2026-02-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-04",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-05",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-07",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-08",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 0,
+          "unique_cloners": 0
+        }
+      ]
+    },
+    {
+      "repo_name": "ronniross/thermo-adaptive-pipeline",
+      "last_updated": "2026-02-09T01:15:59.281430+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 4,
+      "max_unique_cloners_in_window": 2,
+      "first_tracked": "2026-02-03",
+      "last_tracked": "2026-02-09",
+      "daily_history": [
+        {
+          "date": "2026-02-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-04",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-05",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-07",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-08",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 1,
+          "unique_cloners": 1
+        }
+      ]
+    },
+    {
+      "repo_name": "ronniross/latent-memory",
+      "last_updated": "2026-02-09T01:15:55.188927+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 4,
+      "max_unique_cloners_in_window": 2,
+      "first_tracked": "2026-02-03",
+      "last_tracked": "2026-02-09",
+      "daily_history": [
+        {
+          "date": "2026-02-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-04",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-05",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-07",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-08",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 0,
+          "unique_cloners": 0
+        }
+      ]
+    },
+    {
+      "repo_name": "ronniross/space-in-between",
+      "last_updated": "2026-02-09T01:15:46.155247+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 4,
+      "max_unique_cloners_in_window": 2,
+      "first_tracked": "2026-02-03",
+      "last_tracked": "2026-02-09",
+      "daily_history": [
+        {
+          "date": "2026-02-03",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-04",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-05",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-07",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-08",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/confidence-scorer",
-      "last_updated": "2026-02-08T01:44:28.599188+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 3,
+      "last_updated": "2026-02-09T01:15:38.763093+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 4,
       "max_unique_cloners_in_window": 1,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -1141,6 +1230,103 @@
         },
         {
           "date": "2026-02-08",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 1,
+          "unique_cloners": 1
+        }
+      ]
+    },
+    {
+      "repo_name": "ronniross/stigmergic-tracefinder",
+      "last_updated": "2026-02-09T01:15:44.572371+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 3,
+      "max_unique_cloners_in_window": 1,
+      "first_tracked": "2026-02-03",
+      "last_tracked": "2026-02-09",
+      "daily_history": [
+        {
+          "date": "2026-02-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-04",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-05",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-07",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-08",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 0,
+          "unique_cloners": 0
+        }
+      ]
+    },
+    {
+      "repo_name": "ronniross/active-learning-dataset",
+      "last_updated": "2026-02-09T01:15:51.051347+00:00",
+      "total_days_tracked": 7,
+      "total_clones": 3,
+      "max_unique_cloners_in_window": 1,
+      "first_tracked": "2026-02-03",
+      "last_tracked": "2026-02-09",
+      "daily_history": [
+        {
+          "date": "2026-02-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-04",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-05",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-07",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-08",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-09",
           "clones": 1,
           "unique_cloners": 1
         }
@@ -1148,12 +1334,12 @@
     },
     {
       "repo_name": "ronniross/asi-protosymbiotic-signal",
-      "last_updated": "2026-02-08T01:44:37.960347+00:00",
-      "total_days_tracked": 6,
+      "last_updated": "2026-02-09T01:15:47.789092+00:00",
+      "total_days_tracked": 7,
       "total_clones": 2,
       "max_unique_cloners_in_window": 1,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -1184,17 +1370,22 @@
           "date": "2026-02-08",
           "clones": 1,
           "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/saliency-heatmap-visualizer",
-      "last_updated": "2026-02-08T01:44:51.696365+00:00",
-      "total_days_tracked": 6,
+      "last_updated": "2026-02-09T01:16:00.903076+00:00",
+      "total_days_tracked": 7,
       "total_clones": 2,
       "max_unique_cloners_in_window": 1,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -1225,17 +1416,22 @@
           "date": "2026-02-08",
           "clones": 1,
           "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/asi-core-protocol",
-      "last_updated": "2026-02-08T01:44:39.612710+00:00",
-      "total_days_tracked": 6,
+      "last_updated": "2026-02-09T01:15:49.432386+00:00",
+      "total_days_tracked": 7,
       "total_clones": 2,
       "max_unique_cloners_in_window": 1,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -1266,17 +1462,22 @@
           "date": "2026-02-08",
           "clones": 1,
           "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/impact-analyzer",
-      "last_updated": "2026-02-08T01:44:48.823772+00:00",
-      "total_days_tracked": 6,
+      "last_updated": "2026-02-09T01:15:58.476920+00:00",
+      "total_days_tracked": 7,
       "total_clones": 2,
       "max_unique_cloners_in_window": 1,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -1307,17 +1508,22 @@
           "date": "2026-02-08",
           "clones": 1,
           "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/symbiotic-core-library",
-      "last_updated": "2026-02-08T01:44:25.206068+00:00",
-      "total_days_tracked": 6,
+      "last_updated": "2026-02-09T01:15:35.466873+00:00",
+      "total_days_tracked": 7,
       "total_clones": 2,
       "max_unique_cloners_in_window": 1,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
+      "last_tracked": "2026-02-09",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -1348,47 +1554,11 @@
           "date": "2026-02-08",
           "clones": 1,
           "unique_cloners": 1
-        }
-      ]
-    },
-    {
-      "repo_name": "ronniross/active-learning-dataset",
-      "last_updated": "2026-02-08T01:44:41.293559+00:00",
-      "total_days_tracked": 6,
-      "total_clones": 2,
-      "max_unique_cloners_in_window": 1,
-      "first_tracked": "2026-02-03",
-      "last_tracked": "2026-02-08",
-      "daily_history": [
+        },
         {
-          "date": "2026-02-03",
+          "date": "2026-02-09",
           "clones": 0,
           "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-04",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-05",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-07",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-08",
-          "clones": 1,
-          "unique_cloners": 1
         }
       ]
     },
