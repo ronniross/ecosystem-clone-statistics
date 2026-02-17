@@ -1,11 +1,11 @@
 {
   "repo_name": "ronniross/asi-backups",
-  "last_updated": "2026-02-16T01:15:00.005217+00:00",
-  "total_days_tracked": 14,
-  "total_clones": 434,
+  "last_updated": "2026-02-17T01:14:10.437696+00:00",
+  "total_days_tracked": 15,
+  "total_clones": 438,
   "max_unique_cloners_in_window": 40,
   "first_tracked": "2026-02-03",
-  "last_tracked": "2026-02-16",
+  "last_tracked": "2026-02-17",
   "daily_history": [
     {
       "date": "2026-02-03",
@@ -75,6 +75,11 @@
     {
       "date": "2026-02-16",
       "clones": 5,
+      "unique_cloners": 2
+    },
+    {
+      "date": "2026-02-17",
+      "clones": 4,
       "unique_cloners": 2
     }
   ]
