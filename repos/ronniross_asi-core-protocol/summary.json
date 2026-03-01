@@ -1,11 +1,11 @@
 {
   "repo_name": "ronniross/asi-core-protocol",
-  "last_updated": "2026-02-28T01:04:32.949869+00:00",
-  "total_days_tracked": 26,
-  "total_clones": 60,
+  "last_updated": "2026-03-01T01:19:44.502501+00:00",
+  "total_days_tracked": 27,
+  "total_clones": 63,
   "max_unique_cloners_in_window": 30,
   "first_tracked": "2026-02-03",
-  "last_tracked": "2026-02-28",
+  "last_tracked": "2026-03-01",
   "daily_history": [
     {
       "date": "2026-02-03",
@@ -136,6 +136,11 @@
       "date": "2026-02-28",
       "clones": 6,
       "unique_cloners": 4
+    },
+    {
+      "date": "2026-03-01",
+      "clones": 3,
+      "unique_cloners": 3
     }
   ]
 }
