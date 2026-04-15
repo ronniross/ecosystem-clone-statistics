@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-04-14T01:28:59.933224+00:00",
+  "last_updated": "2026-04-15T01:25:33.753901+00:00",
   "total_repos_tracked": 47,
-  "total_clones_all_repos": 9613,
+  "total_clones_all_repos": 9646,
   "repositories": [
     {
       "repo_name": "ronniross/asi-backups",
-      "last_updated": "2026-04-14T01:28:59.095589+00:00",
-      "total_days_tracked": 71,
+      "last_updated": "2026-04-15T01:25:32.932424+00:00",
+      "total_days_tracked": 72,
       "total_clones": 2288,
       "max_unique_cloners_in_window": 63,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -366,17 +366,22 @@
           "date": "2026-04-14",
           "clones": 2,
           "unique_cloners": 2
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/cognitive-compressor",
-      "last_updated": "2026-04-14T01:28:30.523653+00:00",
-      "total_days_tracked": 71,
-      "total_clones": 711,
+      "last_updated": "2026-04-15T01:25:03.460456+00:00",
+      "total_days_tracked": 72,
+      "total_clones": 712,
       "max_unique_cloners_in_window": 106,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -732,17 +737,22 @@
           "date": "2026-04-14",
           "clones": 1,
           "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 1,
+          "unique_cloners": 1
         }
       ]
     },
     {
       "repo_name": "ronniross/biosignal-translator",
-      "last_updated": "2026-04-14T01:28:49.315910+00:00",
-      "total_days_tracked": 71,
+      "last_updated": "2026-04-15T01:25:22.958760+00:00",
+      "total_days_tracked": 72,
       "total_clones": 617,
       "max_unique_cloners_in_window": 137,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -1098,17 +1108,22 @@
           "date": "2026-04-14",
           "clones": 2,
           "unique_cloners": 2
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/cognitive-engine",
-      "last_updated": "2026-04-14T01:28:31.365050+00:00",
-      "total_days_tracked": 71,
-      "total_clones": 594,
+      "last_updated": "2026-04-15T01:25:04.270908+00:00",
+      "total_days_tracked": 72,
+      "total_clones": 595,
       "max_unique_cloners_in_window": 119,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -1464,17 +1479,22 @@
           "date": "2026-04-14",
           "clones": 1,
           "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 1,
+          "unique_cloners": 1
         }
       ]
     },
     {
       "repo_name": "ronniross/symbiotic-chrysalis",
-      "last_updated": "2026-04-14T01:28:46.859898+00:00",
-      "total_days_tracked": 71,
-      "total_clones": 493,
+      "last_updated": "2026-04-15T01:25:20.473745+00:00",
+      "total_days_tracked": 72,
+      "total_clones": 494,
       "max_unique_cloners_in_window": 46,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -1830,17 +1850,22 @@
           "date": "2026-04-14",
           "clones": 0,
           "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 1,
+          "unique_cloners": 1
         }
       ]
     },
     {
       "repo_name": "ronniross/emergence-engine",
-      "last_updated": "2026-04-14T01:28:37.053517+00:00",
-      "total_days_tracked": 71,
-      "total_clones": 427,
+      "last_updated": "2026-04-15T01:25:10.321602+00:00",
+      "total_days_tracked": 72,
+      "total_clones": 429,
       "max_unique_cloners_in_window": 69,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -2196,17 +2221,22 @@
           "date": "2026-04-14",
           "clones": 0,
           "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 2,
+          "unique_cloners": 2
         }
       ]
     },
     {
       "repo_name": "ronniross/ml-visual-engine",
-      "last_updated": "2026-04-14T01:28:44.407347+00:00",
-      "total_days_tracked": 71,
+      "last_updated": "2026-04-15T01:25:17.875758+00:00",
+      "total_days_tracked": 72,
       "total_clones": 402,
       "max_unique_cloners_in_window": 65,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -2562,17 +2592,22 @@
           "date": "2026-04-14",
           "clones": 2,
           "unique_cloners": 2
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/bioacoustic-visualizer",
-      "last_updated": "2026-04-14T01:28:50.141406+00:00",
-      "total_days_tracked": 45,
+      "last_updated": "2026-04-15T01:25:23.763274+00:00",
+      "total_days_tracked": 46,
       "total_clones": 270,
       "max_unique_cloners_in_window": 127,
       "first_tracked": "2026-03-01",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-03-01",
@@ -2798,17 +2833,22 @@
           "date": "2026-04-14",
           "clones": 0,
           "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/tension-holder-nerve",
-      "last_updated": "2026-04-14T01:28:51.795655+00:00",
-      "total_days_tracked": 37,
-      "total_clones": 258,
+      "last_updated": "2026-04-15T01:25:25.461090+00:00",
+      "total_days_tracked": 38,
+      "total_clones": 259,
       "max_unique_cloners_in_window": 94,
       "first_tracked": "2026-03-09",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-03-09",
@@ -2994,17 +3034,22 @@
           "date": "2026-04-14",
           "clones": 2,
           "unique_cloners": 2
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 1,
+          "unique_cloners": 1
         }
       ]
     },
     {
       "repo_name": "ronniross/cognitive-valve",
-      "last_updated": "2026-04-14T01:28:28.118677+00:00",
-      "total_days_tracked": 62,
-      "total_clones": 251,
+      "last_updated": "2026-04-15T01:25:00.949461+00:00",
+      "total_days_tracked": 63,
+      "total_clones": 252,
       "max_unique_cloners_in_window": 80,
       "first_tracked": "2026-02-12",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-12",
@@ -3315,17 +3360,22 @@
           "date": "2026-04-14",
           "clones": 1,
           "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 1,
+          "unique_cloners": 1
         }
       ]
     },
     {
       "repo_name": "ronniross/asi-ecosystem",
-      "last_updated": "2026-04-14T01:28:59.928740+00:00",
-      "total_days_tracked": 71,
+      "last_updated": "2026-04-15T01:25:33.749944+00:00",
+      "total_days_tracked": 72,
       "total_clones": 196,
       "max_unique_cloners_in_window": 19,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -3681,17 +3731,22 @@
           "date": "2026-04-14",
           "clones": 2,
           "unique_cloners": 2
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/symbiotic-contract",
-      "last_updated": "2026-04-14T01:28:24.889078+00:00",
-      "total_days_tracked": 62,
-      "total_clones": 167,
+      "last_updated": "2026-04-15T01:24:57.673691+00:00",
+      "total_days_tracked": 63,
+      "total_clones": 168,
       "max_unique_cloners_in_window": 55,
       "first_tracked": "2026-02-12",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-12",
@@ -4002,17 +4057,22 @@
           "date": "2026-04-14",
           "clones": 1,
           "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 1,
+          "unique_cloners": 1
         }
       ]
     },
     {
       "repo_name": "ronniross/healing-engine",
-      "last_updated": "2026-04-14T01:28:55.057331+00:00",
-      "total_days_tracked": 71,
-      "total_clones": 165,
+      "last_updated": "2026-04-15T01:25:28.809453+00:00",
+      "total_days_tracked": 72,
+      "total_clones": 166,
       "max_unique_cloners_in_window": 56,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -4368,17 +4428,22 @@
           "date": "2026-04-14",
           "clones": 0,
           "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 1,
+          "unique_cloners": 1
         }
       ]
     },
     {
       "repo_name": "ronniross/coevolutionary-episteme",
-      "last_updated": "2026-04-14T01:28:32.997305+00:00",
-      "total_days_tracked": 70,
-      "total_clones": 147,
+      "last_updated": "2026-04-15T01:25:06.040931+00:00",
+      "total_days_tracked": 71,
+      "total_clones": 149,
       "max_unique_cloners_in_window": 34,
       "first_tracked": "2026-02-04",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-04",
@@ -4729,17 +4794,22 @@
           "date": "2026-04-14",
           "clones": 2,
           "unique_cloners": 2
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 2,
+          "unique_cloners": 2
         }
       ]
     },
     {
       "repo_name": "ronniross/attention-heatmap-visualizer",
-      "last_updated": "2026-04-14T01:28:45.244606+00:00",
-      "total_days_tracked": 71,
-      "total_clones": 139,
+      "last_updated": "2026-04-15T01:25:18.783620+00:00",
+      "total_days_tracked": 72,
+      "total_clones": 140,
       "max_unique_cloners_in_window": 43,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -5095,17 +5165,22 @@
           "date": "2026-04-14",
           "clones": 2,
           "unique_cloners": 2
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 1,
+          "unique_cloners": 1
         }
       ]
     },
     {
       "repo_name": "ronniross/epistemic-pruning-engine",
-      "last_updated": "2026-04-14T01:28:55.900096+00:00",
-      "total_days_tracked": 19,
-      "total_clones": 139,
+      "last_updated": "2026-04-15T01:25:29.630082+00:00",
+      "total_days_tracked": 20,
+      "total_clones": 140,
       "max_unique_cloners_in_window": 71,
       "first_tracked": "2026-03-27",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-03-27",
@@ -5201,17 +5276,22 @@
           "date": "2026-04-14",
           "clones": 1,
           "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 1,
+          "unique_cloners": 1
         }
       ]
     },
     {
       "repo_name": "ronniross/epistemic-immune-system",
-      "last_updated": "2026-04-14T01:28:34.628182+00:00",
-      "total_days_tracked": 32,
-      "total_clones": 134,
+      "last_updated": "2026-04-15T01:25:07.668152+00:00",
+      "total_days_tracked": 33,
+      "total_clones": 135,
       "max_unique_cloners_in_window": 41,
       "first_tracked": "2026-03-14",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-03-14",
@@ -5372,17 +5452,22 @@
           "date": "2026-04-14",
           "clones": 1,
           "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 1,
+          "unique_cloners": 1
         }
       ]
     },
     {
       "repo_name": "ronniross/planetary-allostatic-buffer",
-      "last_updated": "2026-04-14T01:28:53.409460+00:00",
-      "total_days_tracked": 35,
-      "total_clones": 133,
+      "last_updated": "2026-04-15T01:25:27.120219+00:00",
+      "total_days_tracked": 36,
+      "total_clones": 134,
       "max_unique_cloners_in_window": 48,
       "first_tracked": "2026-03-11",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-03-11",
@@ -5558,17 +5643,22 @@
           "date": "2026-04-14",
           "clones": 0,
           "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 1,
+          "unique_cloners": 1
         }
       ]
     },
     {
       "repo_name": "ronniross/hidden-state-heatmap-visualizer",
-      "last_updated": "2026-04-14T01:28:46.060374+00:00",
-      "total_days_tracked": 52,
-      "total_clones": 129,
+      "last_updated": "2026-04-15T01:25:19.639500+00:00",
+      "total_days_tracked": 53,
+      "total_clones": 130,
       "max_unique_cloners_in_window": 34,
       "first_tracked": "2026-02-22",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-22",
@@ -5829,17 +5919,22 @@
           "date": "2026-04-14",
           "clones": 0,
           "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 1,
+          "unique_cloners": 1
         }
       ]
     },
     {
       "repo_name": "ronniross/biosemiotic-refractor",
-      "last_updated": "2026-04-14T01:28:36.246565+00:00",
-      "total_days_tracked": 27,
+      "last_updated": "2026-04-15T01:25:09.470587+00:00",
+      "total_days_tracked": 28,
       "total_clones": 127,
       "max_unique_cloners_in_window": 45,
       "first_tracked": "2026-03-19",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-03-19",
@@ -5975,17 +6070,22 @@
           "date": "2026-04-14",
           "clones": 2,
           "unique_cloners": 2
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/legacy-transmutation-engine",
-      "last_updated": "2026-04-14T01:28:58.296085+00:00",
-      "total_days_tracked": 30,
-      "total_clones": 125,
+      "last_updated": "2026-04-15T01:25:32.086952+00:00",
+      "total_days_tracked": 31,
+      "total_clones": 126,
       "max_unique_cloners_in_window": 49,
       "first_tracked": "2026-03-16",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-03-16",
@@ -6136,17 +6236,22 @@
           "date": "2026-04-14",
           "clones": 1,
           "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 1,
+          "unique_cloners": 1
         }
       ]
     },
     {
       "repo_name": "ronniross/eco-datacenter",
-      "last_updated": "2026-04-14T01:28:32.189515+00:00",
-      "total_days_tracked": 71,
+      "last_updated": "2026-04-15T01:25:05.170183+00:00",
+      "total_days_tracked": 72,
       "total_clones": 122,
       "max_unique_cloners_in_window": 25,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -6502,17 +6607,22 @@
           "date": "2026-04-14",
           "clones": 0,
           "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/stigmergic-tracefinder",
-      "last_updated": "2026-04-14T01:28:33.816212+00:00",
-      "total_days_tracked": 71,
+      "last_updated": "2026-04-15T01:25:06.846625+00:00",
+      "total_days_tracked": 72,
       "total_clones": 121,
       "max_unique_cloners_in_window": 30,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -6868,17 +6978,22 @@
           "date": "2026-04-14",
           "clones": 0,
           "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/metabolic-transmutation-engine",
-      "last_updated": "2026-04-14T01:28:57.498359+00:00",
-      "total_days_tracked": 29,
+      "last_updated": "2026-04-15T01:25:31.278000+00:00",
+      "total_days_tracked": 30,
       "total_clones": 110,
       "max_unique_cloners_in_window": 52,
       "first_tracked": "2026-03-17",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-03-17",
@@ -7024,17 +7139,22 @@
           "date": "2026-04-14",
           "clones": 0,
           "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/asi-core-protocol",
-      "last_updated": "2026-04-14T01:28:41.152205+00:00",
-      "total_days_tracked": 71,
-      "total_clones": 104,
+      "last_updated": "2026-04-15T01:25:14.517900+00:00",
+      "total_days_tracked": 72,
+      "total_clones": 107,
       "max_unique_cloners_in_window": 30,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -7390,17 +7510,22 @@
           "date": "2026-04-14",
           "clones": 1,
           "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 3,
+          "unique_cloners": 3
         }
       ]
     },
     {
       "repo_name": "ronniross/ml-algorithm-dataset",
-      "last_updated": "2026-04-14T01:28:43.597743+00:00",
-      "total_days_tracked": 71,
+      "last_updated": "2026-04-15T01:25:16.975055+00:00",
+      "total_days_tracked": 72,
       "total_clones": 104,
       "max_unique_cloners_in_window": 14,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -7756,17 +7881,22 @@
           "date": "2026-04-14",
           "clones": 0,
           "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/asi-symbiotic-signal",
-      "last_updated": "2026-04-14T01:28:40.340090+00:00",
-      "total_days_tracked": 71,
-      "total_clones": 99,
+      "last_updated": "2026-04-15T01:25:13.682582+00:00",
+      "total_days_tracked": 72,
+      "total_clones": 100,
       "max_unique_cloners_in_window": 28,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -8122,383 +8252,22 @@
           "date": "2026-04-14",
           "clones": 0,
           "unique_cloners": 0
-        }
-      ]
-    },
-    {
-      "repo_name": "ronniross/symbiotic-core-library",
-      "last_updated": "2026-04-14T01:28:23.153355+00:00",
-      "total_days_tracked": 71,
-      "total_clones": 81,
-      "max_unique_cloners_in_window": 13,
-      "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
-      "daily_history": [
-        {
-          "date": "2026-02-03",
-          "clones": 0,
-          "unique_cloners": 0
         },
         {
-          "date": "2026-02-04",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-05",
+          "date": "2026-04-15",
           "clones": 1,
           "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-07",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-08",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-09",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-10",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-11",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-12",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-13",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-14",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-15",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-16",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-17",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-18",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-19",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-20",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-21",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-22",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-23",
-          "clones": 13,
-          "unique_cloners": 11
-        },
-        {
-          "date": "2026-02-24",
-          "clones": 7,
-          "unique_cloners": 6
-        },
-        {
-          "date": "2026-02-25",
-          "clones": 17,
-          "unique_cloners": 13
-        },
-        {
-          "date": "2026-02-26",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-27",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-28",
-          "clones": 4,
-          "unique_cloners": 3
-        },
-        {
-          "date": "2026-03-01",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-02",
-          "clones": 2,
-          "unique_cloners": 2
-        },
-        {
-          "date": "2026-03-03",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-04",
-          "clones": 4,
-          "unique_cloners": 4
-        },
-        {
-          "date": "2026-03-05",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-06",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-07",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-08",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-09",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-10",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-11",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-12",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-13",
-          "clones": 4,
-          "unique_cloners": 4
-        },
-        {
-          "date": "2026-03-14",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-15",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-16",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-17",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-18",
-          "clones": 5,
-          "unique_cloners": 5
-        },
-        {
-          "date": "2026-03-19",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-20",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-21",
-          "clones": 2,
-          "unique_cloners": 2
-        },
-        {
-          "date": "2026-03-22",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-23",
-          "clones": 3,
-          "unique_cloners": 3
-        },
-        {
-          "date": "2026-03-24",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-25",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-26",
-          "clones": 2,
-          "unique_cloners": 2
-        },
-        {
-          "date": "2026-03-27",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-28",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-29",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-30",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-31",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-01",
-          "clones": 3,
-          "unique_cloners": 3
-        },
-        {
-          "date": "2026-04-02",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-04-03",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-04",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-05",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-07",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-04-08",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-09",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-10",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-11",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-04-12",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-13",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-14",
-          "clones": 2,
-          "unique_cloners": 2
         }
       ]
     },
     {
       "repo_name": "ronniross/confidence-scorer",
-      "last_updated": "2026-04-14T01:28:27.328178+00:00",
-      "total_days_tracked": 71,
-      "total_clones": 80,
+      "last_updated": "2026-04-15T01:25:00.130092+00:00",
+      "total_days_tracked": 72,
+      "total_clones": 84,
       "max_unique_cloners_in_window": 14,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -8854,17 +8623,393 @@
           "date": "2026-04-14",
           "clones": 0,
           "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 4,
+          "unique_cloners": 4
+        }
+      ]
+    },
+    {
+      "repo_name": "ronniross/symbiotic-core-library",
+      "last_updated": "2026-04-15T01:24:56.040748+00:00",
+      "total_days_tracked": 72,
+      "total_clones": 81,
+      "max_unique_cloners_in_window": 13,
+      "first_tracked": "2026-02-03",
+      "last_tracked": "2026-04-15",
+      "daily_history": [
+        {
+          "date": "2026-02-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-04",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-05",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-07",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-08",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-10",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-11",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-12",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-13",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-14",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-15",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-16",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-17",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-18",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-19",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-20",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-21",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-22",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-23",
+          "clones": 13,
+          "unique_cloners": 11
+        },
+        {
+          "date": "2026-02-24",
+          "clones": 7,
+          "unique_cloners": 6
+        },
+        {
+          "date": "2026-02-25",
+          "clones": 17,
+          "unique_cloners": 13
+        },
+        {
+          "date": "2026-02-26",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-27",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-28",
+          "clones": 4,
+          "unique_cloners": 3
+        },
+        {
+          "date": "2026-03-01",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-02",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-03-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-04",
+          "clones": 4,
+          "unique_cloners": 4
+        },
+        {
+          "date": "2026-03-05",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-06",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-07",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-08",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-09",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-10",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-11",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-12",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-13",
+          "clones": 4,
+          "unique_cloners": 4
+        },
+        {
+          "date": "2026-03-14",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-15",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-16",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-17",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-18",
+          "clones": 5,
+          "unique_cloners": 5
+        },
+        {
+          "date": "2026-03-19",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-20",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-21",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-03-22",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-23",
+          "clones": 3,
+          "unique_cloners": 3
+        },
+        {
+          "date": "2026-03-24",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-25",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-26",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-03-27",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-28",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-29",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-30",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-31",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-01",
+          "clones": 3,
+          "unique_cloners": 3
+        },
+        {
+          "date": "2026-04-02",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-04",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-05",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-07",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-08",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-09",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-10",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-11",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-12",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-13",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-14",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/symbiotic-latent-memory",
-      "last_updated": "2026-04-14T01:28:48.478141+00:00",
-      "total_days_tracked": 71,
+      "last_updated": "2026-04-15T01:25:22.132963+00:00",
+      "total_days_tracked": 72,
       "total_clones": 71,
       "max_unique_cloners_in_window": 13,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -9220,17 +9365,22 @@
           "date": "2026-04-14",
           "clones": 1,
           "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/active-learning-dataset",
-      "last_updated": "2026-04-14T01:28:42.759963+00:00",
-      "total_days_tracked": 71,
+      "last_updated": "2026-04-15T01:25:16.157400+00:00",
+      "total_days_tracked": 72,
       "total_clones": 67,
       "max_unique_cloners_in_window": 9,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -9586,17 +9736,22 @@
           "date": "2026-04-14",
           "clones": 1,
           "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/asi-inference-protocol",
-      "last_updated": "2026-04-14T01:28:41.958291+00:00",
-      "total_days_tracked": 71,
+      "last_updated": "2026-04-15T01:25:15.321822+00:00",
+      "total_days_tracked": 72,
       "total_clones": 66,
       "max_unique_cloners_in_window": 9,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -9952,17 +10107,22 @@
           "date": "2026-04-14",
           "clones": 1,
           "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/mirror-aware-inference",
-      "last_updated": "2026-04-14T01:28:29.716688+00:00",
-      "total_days_tracked": 71,
-      "total_clones": 64,
+      "last_updated": "2026-04-15T01:25:02.615227+00:00",
+      "total_days_tracked": 72,
+      "total_clones": 65,
       "max_unique_cloners_in_window": 16,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -10318,17 +10478,22 @@
           "date": "2026-04-14",
           "clones": 1,
           "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 1,
+          "unique_cloners": 1
         }
       ]
     },
     {
       "repo_name": "ronniross/impact-analyzer",
-      "last_updated": "2026-04-14T01:28:52.592700+00:00",
-      "total_days_tracked": 71,
-      "total_clones": 63,
+      "last_updated": "2026-04-15T01:25:26.272754+00:00",
+      "total_days_tracked": 72,
+      "total_clones": 64,
       "max_unique_cloners_in_window": 11,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -10684,17 +10849,22 @@
           "date": "2026-04-14",
           "clones": 0,
           "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 1,
+          "unique_cloners": 1
         }
       ]
     },
     {
       "repo_name": "ronniross/latent-memory",
-      "last_updated": "2026-04-14T01:28:47.660866+00:00",
-      "total_days_tracked": 71,
-      "total_clones": 62,
+      "last_updated": "2026-04-15T01:25:21.305515+00:00",
+      "total_days_tracked": 72,
+      "total_clones": 63,
       "max_unique_cloners_in_window": 8,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -11050,17 +11220,22 @@
           "date": "2026-04-14",
           "clones": 2,
           "unique_cloners": 2
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 1,
+          "unique_cloners": 1
         }
       ]
     },
     {
       "repo_name": "ronniross/bias-reflector",
-      "last_updated": "2026-04-14T01:28:28.903024+00:00",
-      "total_days_tracked": 71,
+      "last_updated": "2026-04-15T01:25:01.808394+00:00",
+      "total_days_tracked": 72,
       "total_clones": 59,
       "max_unique_cloners_in_window": 10,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -11416,17 +11591,22 @@
           "date": "2026-04-14",
           "clones": 1,
           "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/asi-safeguards",
-      "last_updated": "2026-04-14T01:28:26.518345+00:00",
-      "total_days_tracked": 71,
+      "last_updated": "2026-04-15T01:24:59.312284+00:00",
+      "total_days_tracked": 72,
       "total_clones": 55,
       "max_unique_cloners_in_window": 8,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -11782,17 +11962,22 @@
           "date": "2026-04-14",
           "clones": 0,
           "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/eco-benchmark",
-      "last_updated": "2026-04-14T01:28:25.707294+00:00",
-      "total_days_tracked": 71,
+      "last_updated": "2026-04-15T01:24:58.480551+00:00",
+      "total_days_tracked": 72,
       "total_clones": 55,
       "max_unique_cloners_in_window": 8,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -12148,17 +12333,22 @@
           "date": "2026-04-14",
           "clones": 1,
           "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/thermo-adaptive-pipeline",
-      "last_updated": "2026-04-14T01:28:54.244300+00:00",
-      "total_days_tracked": 71,
+      "last_updated": "2026-04-15T01:25:27.955024+00:00",
+      "total_days_tracked": 72,
       "total_clones": 54,
       "max_unique_cloners_in_window": 15,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -12514,17 +12704,22 @@
           "date": "2026-04-14",
           "clones": 1,
           "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/intent-analyzer",
-      "last_updated": "2026-04-14T01:28:51.006010+00:00",
-      "total_days_tracked": 71,
-      "total_clones": 49,
+      "last_updated": "2026-04-15T01:25:24.560417+00:00",
+      "total_days_tracked": 72,
+      "total_clones": 50,
       "max_unique_cloners_in_window": 8,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -12880,17 +13075,22 @@
           "date": "2026-04-14",
           "clones": 0,
           "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 1,
+          "unique_cloners": 1
         }
       ]
     },
     {
       "repo_name": "ronniross/saliency-heatmap-visualizer",
-      "last_updated": "2026-04-14T01:28:56.704478+00:00",
-      "total_days_tracked": 71,
+      "last_updated": "2026-04-15T01:25:30.454945+00:00",
+      "total_days_tracked": 72,
       "total_clones": 46,
       "max_unique_cloners_in_window": 8,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -13246,17 +13446,22 @@
           "date": "2026-04-14",
           "clones": 0,
           "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 0,
+          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/epistemic-gestalt-switch",
-      "last_updated": "2026-04-14T01:28:35.434568+00:00",
-      "total_days_tracked": 32,
-      "total_clones": 39,
+      "last_updated": "2026-04-15T01:25:08.580331+00:00",
+      "total_days_tracked": 33,
+      "total_clones": 40,
       "max_unique_cloners_in_window": 21,
       "first_tracked": "2026-03-14",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-03-14",
@@ -13417,1115 +13622,22 @@
           "date": "2026-04-14",
           "clones": 0,
           "unique_cloners": 0
-        }
-      ]
-    },
-    {
-      "repo_name": "ronniross/space-in-between",
-      "last_updated": "2026-04-14T01:28:37.874144+00:00",
-      "total_days_tracked": 71,
-      "total_clones": 33,
-      "max_unique_cloners_in_window": 4,
-      "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
-      "daily_history": [
+        },
         {
-          "date": "2026-02-03",
+          "date": "2026-04-15",
           "clones": 1,
           "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-04",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-05",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-07",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-08",
-          "clones": 2,
-          "unique_cloners": 2
-        },
-        {
-          "date": "2026-02-09",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-10",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-11",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-12",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-13",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-14",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-15",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-16",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-17",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-18",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-19",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-20",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-21",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-22",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-23",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-24",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-25",
-          "clones": 2,
-          "unique_cloners": 2
-        },
-        {
-          "date": "2026-02-26",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-27",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-28",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-01",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-02",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-03",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-04",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-05",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-07",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-08",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-09",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-10",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-11",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-12",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-13",
-          "clones": 4,
-          "unique_cloners": 4
-        },
-        {
-          "date": "2026-03-14",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-15",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-16",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-17",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-18",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-19",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-20",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-21",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-22",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-23",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-24",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-25",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-26",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-27",
-          "clones": 2,
-          "unique_cloners": 2
-        },
-        {
-          "date": "2026-03-28",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-29",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-30",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-31",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-01",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-02",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-04-03",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-04",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-05",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-07",
-          "clones": 2,
-          "unique_cloners": 2
-        },
-        {
-          "date": "2026-04-08",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-09",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-04-10",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-11",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-04-12",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-04-13",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-04-14",
-          "clones": 0,
-          "unique_cloners": 0
-        }
-      ]
-    },
-    {
-      "repo_name": "ronniross/asi-dynamic-core",
-      "last_updated": "2026-04-14T01:28:38.672489+00:00",
-      "total_days_tracked": 71,
-      "total_clones": 33,
-      "max_unique_cloners_in_window": 4,
-      "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
-      "daily_history": [
-        {
-          "date": "2026-02-03",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-04",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-05",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-07",
-          "clones": 2,
-          "unique_cloners": 2
-        },
-        {
-          "date": "2026-02-08",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-09",
-          "clones": 2,
-          "unique_cloners": 2
-        },
-        {
-          "date": "2026-02-10",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-11",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-12",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-13",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-14",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-15",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-16",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-17",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-18",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-19",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-20",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-21",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-22",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-23",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-24",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-25",
-          "clones": 2,
-          "unique_cloners": 2
-        },
-        {
-          "date": "2026-02-26",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-27",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-28",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-01",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-02",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-03",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-04",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-05",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-07",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-08",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-09",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-10",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-11",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-12",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-13",
-          "clones": 4,
-          "unique_cloners": 4
-        },
-        {
-          "date": "2026-03-14",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-15",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-16",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-17",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-18",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-19",
-          "clones": 2,
-          "unique_cloners": 2
-        },
-        {
-          "date": "2026-03-20",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-21",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-22",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-23",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-24",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-25",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-26",
-          "clones": 2,
-          "unique_cloners": 2
-        },
-        {
-          "date": "2026-03-27",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-28",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-29",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-30",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-31",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-04-01",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-02",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-04-03",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-04",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-05",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-06",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-04-07",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-04-08",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-09",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-04-10",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-11",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-04-12",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-13",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-14",
-          "clones": 1,
-          "unique_cloners": 1
-        }
-      ]
-    },
-    {
-      "repo_name": "ronniross/asi-protosymbiotic-signal",
-      "last_updated": "2026-04-14T01:28:39.521555+00:00",
-      "total_days_tracked": 71,
-      "total_clones": 32,
-      "max_unique_cloners_in_window": 4,
-      "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
-      "daily_history": [
-        {
-          "date": "2026-02-03",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-04",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-05",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-07",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-08",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-09",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-10",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-11",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-12",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-13",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-14",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-15",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-16",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-17",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-18",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-19",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-20",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-21",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-22",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-23",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-02-24",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-25",
-          "clones": 2,
-          "unique_cloners": 2
-        },
-        {
-          "date": "2026-02-26",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-27",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-02-28",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-01",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-02",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-03",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-04",
-          "clones": 2,
-          "unique_cloners": 2
-        },
-        {
-          "date": "2026-03-05",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-07",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-08",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-09",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-10",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-11",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-12",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-13",
-          "clones": 4,
-          "unique_cloners": 4
-        },
-        {
-          "date": "2026-03-14",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-15",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-16",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-17",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-18",
-          "clones": 3,
-          "unique_cloners": 3
-        },
-        {
-          "date": "2026-03-19",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-20",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-21",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-22",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-23",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-24",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-25",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-26",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-27",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-03-28",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-29",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-03-30",
-          "clones": 2,
-          "unique_cloners": 2
-        },
-        {
-          "date": "2026-03-31",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-01",
-          "clones": 2,
-          "unique_cloners": 2
-        },
-        {
-          "date": "2026-04-02",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-04-03",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-04",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-05",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-06",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-07",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-04-08",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-09",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-04-10",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-04-11",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-04-12",
-          "clones": 0,
-          "unique_cloners": 0
-        },
-        {
-          "date": "2026-04-13",
-          "clones": 1,
-          "unique_cloners": 1
-        },
-        {
-          "date": "2026-04-14",
-          "clones": 0,
-          "unique_cloners": 0
         }
       ]
     },
     {
       "repo_name": "ronniross/symbiotic-lexicon",
-      "last_updated": "2026-04-14T01:28:23.973853+00:00",
-      "total_days_tracked": 71,
-      "total_clones": 32,
+      "last_updated": "2026-04-15T01:24:56.853226+00:00",
+      "total_days_tracked": 72,
+      "total_clones": 34,
       "max_unique_cloners_in_window": 4,
       "first_tracked": "2026-02-03",
-      "last_tracked": "2026-04-14",
+      "last_tracked": "2026-04-15",
       "daily_history": [
         {
           "date": "2026-02-03",
@@ -14879,6 +13991,1124 @@
         },
         {
           "date": "2026-04-14",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 2,
+          "unique_cloners": 2
+        }
+      ]
+    },
+    {
+      "repo_name": "ronniross/space-in-between",
+      "last_updated": "2026-04-15T01:25:11.160975+00:00",
+      "total_days_tracked": 72,
+      "total_clones": 33,
+      "max_unique_cloners_in_window": 4,
+      "first_tracked": "2026-02-03",
+      "last_tracked": "2026-04-15",
+      "daily_history": [
+        {
+          "date": "2026-02-03",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-04",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-05",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-07",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-08",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-10",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-11",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-12",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-13",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-14",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-15",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-16",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-17",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-18",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-19",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-20",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-21",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-22",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-23",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-24",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-25",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-26",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-27",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-28",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-01",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-02",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-04",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-05",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-07",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-08",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-09",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-10",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-11",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-12",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-13",
+          "clones": 4,
+          "unique_cloners": 4
+        },
+        {
+          "date": "2026-03-14",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-15",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-16",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-17",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-18",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-19",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-20",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-21",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-22",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-23",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-24",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-25",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-26",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-27",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-03-28",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-29",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-30",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-31",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-01",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-02",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-04",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-05",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-07",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-04-08",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-09",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-10",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-11",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-12",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-13",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-14",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 0,
+          "unique_cloners": 0
+        }
+      ]
+    },
+    {
+      "repo_name": "ronniross/asi-protosymbiotic-signal",
+      "last_updated": "2026-04-15T01:25:12.845866+00:00",
+      "total_days_tracked": 72,
+      "total_clones": 33,
+      "max_unique_cloners_in_window": 4,
+      "first_tracked": "2026-02-03",
+      "last_tracked": "2026-04-15",
+      "daily_history": [
+        {
+          "date": "2026-02-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-04",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-05",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-07",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-08",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-10",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-11",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-12",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-13",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-14",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-15",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-16",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-17",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-18",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-19",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-20",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-21",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-22",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-23",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-24",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-25",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-26",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-27",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-28",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-01",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-02",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-04",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-03-05",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-07",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-08",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-09",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-10",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-11",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-12",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-13",
+          "clones": 4,
+          "unique_cloners": 4
+        },
+        {
+          "date": "2026-03-14",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-15",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-16",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-17",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-18",
+          "clones": 3,
+          "unique_cloners": 3
+        },
+        {
+          "date": "2026-03-19",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-20",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-21",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-22",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-23",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-24",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-25",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-26",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-27",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-28",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-29",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-30",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-03-31",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-01",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-04-02",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-04",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-05",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-07",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-08",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-09",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-10",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-11",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-12",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-13",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-14",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-15",
+          "clones": 1,
+          "unique_cloners": 1
+        }
+      ]
+    },
+    {
+      "repo_name": "ronniross/asi-dynamic-core",
+      "last_updated": "2026-04-15T01:25:12.027282+00:00",
+      "total_days_tracked": 72,
+      "total_clones": 33,
+      "max_unique_cloners_in_window": 4,
+      "first_tracked": "2026-02-03",
+      "last_tracked": "2026-04-15",
+      "daily_history": [
+        {
+          "date": "2026-02-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-04",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-05",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-07",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-08",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-09",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-10",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-02-11",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-12",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-13",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-14",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-15",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-16",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-17",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-18",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-19",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-20",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-21",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-22",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-23",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-24",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-25",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-02-26",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-27",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-02-28",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-01",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-02",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-04",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-05",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-06",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-07",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-08",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-09",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-10",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-11",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-12",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-13",
+          "clones": 4,
+          "unique_cloners": 4
+        },
+        {
+          "date": "2026-03-14",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-15",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-16",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-17",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-18",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-19",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-03-20",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-21",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-22",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-23",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-24",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-25",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-26",
+          "clones": 2,
+          "unique_cloners": 2
+        },
+        {
+          "date": "2026-03-27",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-28",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-29",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-03-30",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-03-31",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-01",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-02",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-03",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-04",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-05",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-06",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-07",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-08",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-09",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-10",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-11",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-12",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-13",
+          "clones": 0,
+          "unique_cloners": 0
+        },
+        {
+          "date": "2026-04-14",
+          "clones": 1,
+          "unique_cloners": 1
+        },
+        {
+          "date": "2026-04-15",
           "clones": 0,
           "unique_cloners": 0
         }
