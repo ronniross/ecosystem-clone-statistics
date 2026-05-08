@@ -1,11 +1,11 @@
 {
   "repo_name": "ronniross/asi-ecosystem",
-  "last_updated": "2026-05-07T01:58:10.858196+00:00",
-  "total_days_tracked": 94,
+  "last_updated": "2026-05-08T02:03:45.137030+00:00",
+  "total_days_tracked": 95,
   "total_clones": 314,
   "max_unique_cloners_in_window": 58,
   "first_tracked": "2026-02-03",
-  "last_tracked": "2026-05-07",
+  "last_tracked": "2026-05-08",
   "daily_history": [
     {
       "date": "2026-02-03",
@@ -476,6 +476,11 @@
       "date": "2026-05-07",
       "clones": 2,
       "unique_cloners": 2
+    },
+    {
+      "date": "2026-05-08",
+      "clones": 0,
+      "unique_cloners": 0
     }
   ]
 }
