@@ -1,11 +1,11 @@
 {
   "repo_name": "ronniross/asi-dynamic-core",
-  "last_updated": "2026-05-28T02:04:51.256492+00:00",
-  "total_days_tracked": 115,
+  "last_updated": "2026-05-29T02:09:14.485338+00:00",
+  "total_days_tracked": 116,
   "total_clones": 53,
   "max_unique_cloners_in_window": 4,
   "first_tracked": "2026-02-03",
-  "last_tracked": "2026-05-28",
+  "last_tracked": "2026-05-29",
   "daily_history": [
     {
       "date": "2026-02-03",
@@ -581,6 +581,11 @@
       "date": "2026-05-28",
       "clones": 2,
       "unique_cloners": 2
+    },
+    {
+      "date": "2026-05-29",
+      "clones": 0,
+      "unique_cloners": 0
     }
   ]
 }
