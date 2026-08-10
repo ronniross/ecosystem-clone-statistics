@@ -1,11 +1,11 @@
 {
   "repo_name": "ronniross/epistemic-pruning-engine",
-  "last_updated": "2026-08-09T00:54:47.307456+00:00",
-  "total_days_tracked": 88,
+  "last_updated": "2026-08-10T00:57:09.641126+00:00",
+  "total_days_tracked": 89,
   "total_clones": 177,
   "max_unique_cloners_in_window": 71,
   "first_tracked": "2026-03-27",
-  "last_tracked": "2026-08-09",
+  "last_tracked": "2026-08-10",
   "daily_history": [
     {
       "date": "2026-03-27",
@@ -444,6 +444,11 @@
     },
     {
       "date": "2026-08-09",
+      "clones": 0,
+      "unique_cloners": 0
+    },
+    {
+      "date": "2026-08-10",
       "clones": 0,
       "unique_cloners": 0
     }
