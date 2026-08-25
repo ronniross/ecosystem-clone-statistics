@@ -1,11 +1,11 @@
 {
   "repo_name": "ronniross/asi-protosymbiotic-signal",
-  "last_updated": "2026-08-24T00:39:53.823735+00:00",
-  "total_days_tracked": 155,
+  "last_updated": "2026-08-25T00:39:18.119778+00:00",
+  "total_days_tracked": 156,
   "total_clones": 63,
   "max_unique_cloners_in_window": 5,
   "first_tracked": "2026-02-03",
-  "last_tracked": "2026-08-24",
+  "last_tracked": "2026-08-25",
   "daily_history": [
     {
       "date": "2026-02-03",
@@ -779,6 +779,11 @@
     },
     {
       "date": "2026-08-24",
+      "clones": 0,
+      "unique_cloners": 0
+    },
+    {
+      "date": "2026-08-25",
       "clones": 0,
       "unique_cloners": 0
     }
