@@ -1,11 +1,11 @@
 {
   "repo_name": "ronniross/asi-inference-protocol",
-  "last_updated": "2026-11-25T06:01:56.973131+00:00",
-  "total_days_tracked": 247,
+  "last_updated": "2026-11-26T05:55:48.713782+00:00",
+  "total_days_tracked": 248,
   "total_clones": 140,
   "max_unique_cloners_in_window": 9,
   "first_tracked": "2026-02-03",
-  "last_tracked": "2026-11-25",
+  "last_tracked": "2026-11-26",
   "daily_history": [
     {
       "date": "2026-02-03",
@@ -1239,6 +1239,11 @@
     },
     {
       "date": "2026-11-25",
+      "clones": 0,
+      "unique_cloners": 0
+    },
+    {
+      "date": "2026-11-26",
       "clones": 0,
       "unique_cloners": 0
     }
