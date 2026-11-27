@@ -1,11 +1,11 @@
 {
   "repo_name": "ronniross/biosemiotic-refractor",
-  "last_updated": "2026-11-26T05:55:42.767782+00:00",
-  "total_days_tracked": 204,
-  "total_clones": 305,
+  "last_updated": "2026-11-27T05:49:27.010352+00:00",
+  "total_days_tracked": 205,
+  "total_clones": 307,
   "max_unique_cloners_in_window": 45,
   "first_tracked": "2026-03-19",
-  "last_tracked": "2026-11-26",
+  "last_tracked": "2026-11-27",
   "daily_history": [
     {
       "date": "2026-03-19",
@@ -1025,6 +1025,11 @@
     {
       "date": "2026-11-26",
       "clones": 1,
+      "unique_cloners": 1
+    },
+    {
+      "date": "2026-11-27",
+      "clones": 2,
       "unique_cloners": 1
     }
   ]
